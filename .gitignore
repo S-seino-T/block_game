@@ -1,0 +1,9 @@
+dist/
+build/
+__pycache__/
+pyproject.toml
+uv.lock
+.python-version
+.DS_Store
+.venv/
+main.spec
